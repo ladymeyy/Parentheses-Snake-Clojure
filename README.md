@@ -10,7 +10,8 @@ in order to keep playing without failing you have to collect BALANCED PARENTHESE
 
 Just load to the REPL ! :)
 
-![screenGame](https://user-images.githubusercontent.com/19207742/54498627-68eb4980-4912-11e9-8d59-320626191573.png)
+<img width="1025" alt="Screen Shot 2019-04-10 at 19 15 12" src="https://user-images.githubusercontent.com/19207742/55895590-1b869300-5bc5-11e9-8e01-43ef5de375bd.png">
+
 
 ## License
 
