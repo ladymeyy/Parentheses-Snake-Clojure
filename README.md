@@ -7,8 +7,10 @@ in order to keep playing without failing you have to collect BALANCED PARENTHESE
 
 
 ## Usage
-
-Just load to the REPL ! :)
+- Download/clone the repo 
+- cd to the game folder 
+- Start the Clojure REPL (using Leiningen as the build and project management tool ) : 
+```user$: lein repl ```
 
 <img width="1025" alt="Screen Shot 2019-04-10 at 19 15 12" src="https://user-images.githubusercontent.com/19207742/55895590-1b869300-5bc5-11e9-8e01-43ef5de375bd.png">
 
